@@ -1,6 +1,6 @@
 # NLW-eSports
 
-
+Projeto desenvolvido durante a Next Level Week eSports da Rocketseat. Foi uma semana de conteúdo prático desenvolvendo uma aplicação Full Stack com React, React native e NodeJs.
 
 ### Frontend 
 
