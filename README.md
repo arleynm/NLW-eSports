@@ -1,5 +1,7 @@
 # NLW-eSports
 
+![alt text](https://github.com/arleynm/NLW-eSports/blob/2132ca8f6b22d9b460402f71e1258618e90d4154/assets/Plataforma%20Rocketseat%20Cover.png)
+
 Projeto desenvolvido durante a Next Level Week eSports da Rocketseat. Foi uma semana de conteúdo prático desenvolvendo uma aplicação Full Stack com React, React native e NodeJs.
 
 ### Frontend 
